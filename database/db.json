@@ -17,6 +17,16 @@
       "name": "Douglas Crockford",
       "course": "JavaScript",
       "grade": 100
+    },
+    {
+      "name": "Tim Davis",
+      "grade": 41,
+      "id": 34
+    },
+    {
+      "name": "Michael Baltazar",
+      "grade": 44,
+      "id": 35
     }
   ]
 }
